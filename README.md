@@ -2,6 +2,10 @@
 
 Natural language to SQL to dashboard — ask a question in plain English and get a visualization with narrative insights, no SQL knowledge required.
 
+## Why I Built This
+
+In product and operations roles, the bottleneck for data-driven decisions is rarely the data — it's access. Analysts are backlogged, SQL fluency is uneven across teams, and by the time a report is ready, the decision has already been made. I built this to explore what happens when you remove that bottleneck entirely: a business stakeholder types a question the way they'd ask a colleague, and gets a chart and a written summary back in seconds. No ticket, no SQL, no waiting.
+
 ## What It Does
 
 1. User types a business question in plain English
